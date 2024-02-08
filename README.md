@@ -1,5 +1,5 @@
 
-<h1>  Olá, meu nome é Daniel! :raising_hand: :pencil: :rocket:<h1/>
+<h1>  Olá, meu nome é Daniel! :sunglasses:<h1/>
 <h2> Sou estudante de Programação Front End :arrow_lower_left:</h2>
 <div style="dislplay: inlaine_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
