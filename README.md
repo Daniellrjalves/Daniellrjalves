@@ -1,5 +1,5 @@
 
-<h1> Oi, Sou estudante de Programação e amante de tecnologias e códigos. </h1>
+<h1> Olá, sou estudante de Programação e amante de tecnologias. </h1>
 <h2> Estou fazendo transição de carreira para a área de desenvolvimento front-end <br> Atualmente estudo as seguintes tecnologias!<h2>
 <h3>  Front End :arrow_lower_left:</h3>
 <div style="dislplay: inlaine_block"><br/>
