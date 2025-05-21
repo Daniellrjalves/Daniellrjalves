@@ -1,5 +1,6 @@
 
-<h1> Olá, sou estudante de Programação e amante de tecnologias. </h1>
+<h1> Olá, Meu nome é Daniel </h1>
+<h2> Estudante FullStack no <a href="https://rodolfomori.com.br/-devclub" target="_blank">DevClub</a></h2>
 <h2> Estou fazendo transição de carreira para a área de desenvolvimento front-end <br> Atualmente estudo as seguintes tecnologias!<h2>
 <h3>  Front End :arrow_lower_left:</h3>
 <div style="dislplay: inlaine_block"><br/>
