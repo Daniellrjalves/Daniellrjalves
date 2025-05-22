@@ -8,7 +8,7 @@
 </div>
 
 <div style="dislplay: inlaine_block"><br/>
-   <a href="https://www.instagram.com/"> <img align="center" alt="Linkedin"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+   <a href="https://www.instagram.com/daniel_rjalves"> <img align="center" alt="Linkedin"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
    
 </div>
 
