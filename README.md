@@ -2,11 +2,10 @@
 <h1> Olá! Eu sou o Daniel 👋 </h1>
 <h2> Estudante FullStack no <a href="https://rodolfomori.com.br/-devclub" target="_blank">DevClub</a>, Eletricista de redes e entusiasta do DESENVOLVIMENTO WEB. Estou aprendendo JavaScript e desenvolvendo projetos para praticar.</h2>
 <h2> Estou fazendo transição de carreira para a área da PROGRAMAÇÃO!<h2>
-
+<h2> Rede Social</h2>
 <div style="dislplay: inlaine_block"><br/>
    <a href="https://www.linkedin.com/in/danielrjalves/"> <img align="center" alt="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </div>
-
 <div style="dislplay: inlaine_block"><br/>
    <a href="https://www.instagram.com/daniel_rjalves"> <img align="center" alt="Linkedin"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
    
